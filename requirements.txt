@@ -1,0 +1,7 @@
+anthropic>=0.40
+SpeechRecognition>=3.10
+PyAudio>=0.2.14
+pyttsx3>=2.90
+pynput>=1.7
+pystray>=0.19
+Pillow>=10.0
